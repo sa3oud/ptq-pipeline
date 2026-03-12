@@ -1,0 +1,3 @@
+Model,Size (MB),Latency (ms),Latency Std,Size Reduction,Speedup
+FP32,44.72,18.85,11.71,baseline,baseline
+INT8,43.2,17.22,2.29,3.4% smaller,1.09x faster
